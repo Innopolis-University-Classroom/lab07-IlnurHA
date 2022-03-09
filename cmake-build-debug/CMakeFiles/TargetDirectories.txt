@@ -1,0 +1,3 @@
+C:/Users/Ilnur/CLionProjects/ssad/mid/lab07-IlnurHA/cmake-build-debug/CMakeFiles/lab07_IlnurHA.dir
+C:/Users/Ilnur/CLionProjects/ssad/mid/lab07-IlnurHA/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ilnur/CLionProjects/ssad/mid/lab07-IlnurHA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
